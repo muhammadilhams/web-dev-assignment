@@ -1,0 +1,44 @@
+td{
+
+    text-align: center;
+    text-align: justify;
+}
+tr{
+    margin: 30px;
+}
+.kelasProdi{
+
+    margin: 20px auto;
+    background-color: rgba(0, 0, 0, 0.863);
+    width: 800px;
+    font-style: oblique;
+    margin: 3% auto;
+    border-radius: 8%;
+padding: 5%;
+}
+h1, table, h2, figure{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+figure{
+    text-align: justify;
+}
+body{
+        background-image: url(unhas\ logo.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 800px;
+    background-position-y: center;
+    background-blend-mode: color-burn;
+    color: white;
+}
+img{
+    border-radius: 5%;
+    align-items: center;
+}
+div{
+    align-items: center;
+}
+a{
+    color: white;
+}

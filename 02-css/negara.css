@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(background.jpg);
+    background-size: 200%;
+ 
+}
+
+figure {
+    text-align: justify;
+    padding: 10px;
+       font-style: oblique;
+   
+}
+table{
+    margin-top: 1cm;
+}
+h2,
+h3,
+h4,
+h5 {
+    font-size: large;
+    margin-top: 1cm;
+    
+}
+.kelasNegara{
+    background-color: rgba(255, 255, 255, 0.459);
+   border-radius: 10%;
+  margin: auto;
+   width: 800px;
+}
+img{
+    border-radius: 10%;
+}
+a{
+    color: black;
+}
