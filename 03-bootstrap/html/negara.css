@@ -1,0 +1,12 @@
+.carousel-item {
+  height: 560px;
+}
+.carousel-item img {
+  margin-top: -100;
+}
+.carousel-item .display-3 {
+  margin-top: -240px;
+}
+.jumbotron {
+  font-family: Arial, Helvetica, sans-serif;
+}
