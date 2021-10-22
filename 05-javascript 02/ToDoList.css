@@ -1,0 +1,31 @@
+body {
+  /* background-image: url(download.jpg); */
+  background-size: 1500px auto;
+  background-repeat: repeat;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+button {
+  margin-left: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  color: blue;
+}
+
+h2 {
+  text-align: center;
+  margin-top: -40px;
+  margin-bottom: 50px;
+  font-size: 15px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+#delete {
+  background-color: rgb(172, 115, 124);
+}
