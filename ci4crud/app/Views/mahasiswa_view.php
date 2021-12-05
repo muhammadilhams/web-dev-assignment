@@ -1,5 +1,3 @@
-<!-- Nama   : Putri Rezky Ameilya B.
-     Nim    : H071201078 -->
 
      <!DOCTYPE html>
 <html lang="en">
